@@ -2,5 +2,5 @@
 - 👀 I’m interested in web development, particularly in building responsive and user-friendly applications.
 - 🌱 I’m currently learning about React and Node.js to enhance my full-stack development skills.
 - 💞️ I’m looking to collaborate on open-source projects or any innovative web applications.
-- 📫 How to reach me: You can reach me via email at andre_luiz1907@hotmail.com.
-- ⚡ Fun fact: I love hiking and exploring nature on the weekends!
+- 📫 How to reach me: You can reach me via email at andre_luiz1907@hotmail.com
+- ⚡ Fun fact: I love playing classic video games (especially Super Nintendo) and coding in my spare time.
