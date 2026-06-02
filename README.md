@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner-raspberry.png" width="100%">
+</p>Olá, eu sou o André 👋
 
-<!--
-**Drenilson/Drenilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Powered by **Raspberry Pi** 🏆
 
-Here are some ideas to get you started:
+💰 Hardware limitado.
+🧠 Curiosidade ilimitada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **apaixonado** por entender como as coisas funcionam **por baixo dos panos**.
+
+**O que eu estudo atualmente:**
+
+- ⚙️ Reverse Engineering e analise de binários 
+- 💾 Assembly x86/64 e ARM64
+- 🦠 Malware Analysis
+- 🐧 Linux
+
+Uso este GitHub como um laboratório aberto onde documento minha evolução, experimentos, erros, descobertas e projetos.
+
+**Meu método de estudo**
+
+1. 🔨 Praticar
+2. 💥 Quebrar alguma coisa
+3. 🔍 Entender por que quebrou
+4. ✍️ Documentar
+5. 🤝 Compartilhar
+
+_*Acredito que ensinar é uma das formas mais eficientes de aprender.*
+
+---
+
+**My Setup**
+
+- 🍓 Raspberry Pi 4 (8GB RAM)
+- 🐧 Linux
+- ☕ Café
+- 📚 Curiosidade
+- 🎯 Persistência
+
+---
+
+**Conecte-se comigo**
+
+Se encontrar algo útil por aqui, fique à vontade para usar, corrigir, discutir ou contribuir.
+
+Aprendendo um byte de cada vez. 🚀🫪🤯
