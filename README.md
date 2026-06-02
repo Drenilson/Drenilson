@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner-raspberry.png" width="100%">
+  <img src="
+    file_000000003f9071f48dc1db32080804ac~3.jpg
+    " width="100%">
 </p>Olá, eu sou o André 👋
 
 ## Powered by **Raspberry Pi** 🏆
