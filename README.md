@@ -1,7 +1,7 @@
-![Banner](file_000000003f9071f48dc1db32080804ac~3.jpg)
+![Banner](file_00000000b48071f5816f7ce27ed8d6fc.png)
 <p align="center">
   <img src="
-    file_000000003f9071f48dc1db32080804ac~3.jpg
+    file_00000000b48071f5816f7ce27ed8d6fc.png
     " width="100%">
 </p>Olá, eu sou o André 👋
 
