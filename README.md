@@ -1,9 +1,6 @@
 ![Banner](file_00000000b48071f5816f7ce27ed8d6fc.png)
-<p align="center">
-  <img src="
-    file_00000000b48071f5816f7ce27ed8d6fc.png
-    " width="100%">
-</p>Olá, eu sou o André 👋
+<br>
+Olá, eu sou o André 👋
 
 ## Powered by **Raspberry Pi** 🏆
 
